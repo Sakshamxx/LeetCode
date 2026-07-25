@@ -162,4 +162,8 @@ Five-model regression showdown (Ridge, Lasso, Random Forest + GridSearchCV) on a
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3536-maximum-product-of-two-digits) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
