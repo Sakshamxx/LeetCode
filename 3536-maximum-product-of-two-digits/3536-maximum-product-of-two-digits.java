@@ -1,6 +1,5 @@
 class Solution {
     public int maxProduct(int n) {
-        int i =0;
         int fmax = 0;
         int smax = 0;
         while(n>0){
