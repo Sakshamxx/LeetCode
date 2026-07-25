@@ -151,3 +151,15 @@ Five-model regression showdown (Ridge, Lasso, Random Forest + GridSearchCV) on a
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakshamxx)
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3536-maximum-product-of-two-digits) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3536-maximum-product-of-two-digits) |
+<!---LeetCode Topics End-->
