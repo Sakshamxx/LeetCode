@@ -158,6 +158,7 @@ Five-model regression showdown (Ridge, Lasso, Random Forest + GridSearchCV) on a
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sorting
@@ -173,6 +174,7 @@ Five-model regression showdown (Ridge, Lasso, Random Forest + GridSearchCV) on a
 | [0008-string-to-integer-atoi](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0008-string-to-integer-atoi) |
 | [0032-longest-valid-parentheses](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Array
 |  |
 | ------- |
@@ -198,4 +200,13 @@ Five-model regression showdown (Ridge, Lasso, Random Forest + GridSearchCV) on a
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
