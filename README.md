@@ -130,4 +130,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0601-human-traffic-of-stadium](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0601-human-traffic-of-stadium/) | Hard |
 <!---LeetCode Topics End-->
