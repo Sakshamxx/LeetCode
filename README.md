@@ -39,6 +39,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0051-n-queens](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0051-n-queens/) | Hard |
 | [0055-jump-game](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0055-jump-game/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -94,6 +95,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0055-jump-game/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -157,4 +159,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0051-n-queens/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
