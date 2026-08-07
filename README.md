@@ -3,6 +3,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0415-add-strings](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -16,6 +17,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -39,6 +41,7 @@
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0055-jump-game/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0268-missing-number](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/1406-stone-game-iii/) | Hard |
@@ -75,6 +78,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0268-missing-number](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/3731-find-missing-elements/) | Easy |
@@ -139,4 +143,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0601-human-traffic-of-stadium](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0601-human-traffic-of-stadium/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Sakshamxx/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
